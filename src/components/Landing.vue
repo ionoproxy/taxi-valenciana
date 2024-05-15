@@ -12,7 +12,7 @@
         <a href="https://wa.me/34624614349" target="_blank" class="whatsapp">
           Reservar por WhatsApp
         </a>
-        <a href="tel:684348692" target="_blank" class="telephone">
+        <a href="tel:+34624614349" target="_blank" class="telephone">
           Reservar por llamada
         </a>
       </div>
